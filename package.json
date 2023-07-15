@@ -1,5 +1,5 @@
 {
-  "name": "spa-seo",
+  "name": "spa-sparender",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "build": "tsc",
     "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/index.ts"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "tangdy",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.4.2",
     "ts-node": "^10.9.1",
